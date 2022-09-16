@@ -51,3 +51,4 @@ UnPack = "1"
 
 ["0.1.9-0"]
 Interpolations = "0.13"
+Statistics = "1"

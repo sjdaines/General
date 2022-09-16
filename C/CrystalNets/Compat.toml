@@ -8,6 +8,7 @@ PeriodicGraphEmbeddings = "0.1"
 PeriodicGraphs = "0.8.1-0.8"
 Pkg = "1.5.0-1"
 StaticArrays = ["0.12.4-0.12", "1"]
+Statistics = "1.6.0-1"
 Tokenize = "0.5.8-0.5"
 julia = "1.6.0-1"
 spglib_jll = "1.16.3-1"
